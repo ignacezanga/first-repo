@@ -306,6 +306,10 @@ Learn
 Partners
 Training & certification
 Documentation
+Developer resources
+Enterprise services
+See all resources
+
 Copyright © 2024 Atlassian
 Privacy Policy
 Terms
